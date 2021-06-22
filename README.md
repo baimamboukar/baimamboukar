@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Baimam Boukar</h1>
-<h3 align="center">Mobile & Web developer | Aspiring Csc Engr | Tech Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm Baimam Boukar
+ <a href="https://twitter.com/baimamjj" target="blank"><img src="https://img.shields.io/twitter/follow/baimamjj?logo=twitter&style=for-the-badge" alt="baimamjj" /></a>
+</h1>
+<h2 align="center">Mobile & Web developer | Aspiring Csc Engr | Tech Enthusiast</h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect ☻</h3>
 <p align="left">
 <a href="https://dev.to/baimamboukar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="baimamboukar" height="30" width="40" /></a>
 <a href="https://twitter.com/baimamjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baimamjj" height="30" width="40" /></a>
@@ -14,7 +17,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baimamboukar" alt="baimamboukar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/baimamjj" target="blank"><img src="https://img.shields.io/twitter/follow/baimamjj?logo=twitter&style=for-the-badge" alt="baimamjj" /></a> </p>
 
 - 🔭 I’m currently working on **Heekma Learn**
 
@@ -43,9 +45,9 @@
 <p><a href="https://www.buymeacoffee.com/baimamboukar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="baimamboukar" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baimamboukar&show_icons=true&locale=en&layout=compact" alt="baimamboukar" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baimamboukar&show_icons=true&locale=en&layout=compact" alt="baimamboukar" /></p>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baimamboukar&show_icons=true&locale=en" alt="baimamboukar" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baimamboukar&" alt="baimamboukar" /></p>
 
