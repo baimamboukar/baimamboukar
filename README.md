@@ -12,7 +12,7 @@
 <a href="https://medium.com/@baimamboukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@baimamboukar" height="30" width="40" /></a>
 </p>
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baimamboukar" alt="baimamboukar" /></a> </p>
+
 
 
 - 🔭 I’m currently working on **Eureka Learn**
