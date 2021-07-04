@@ -1,6 +1,5 @@
 <h1 align="center">
   Hi 👋, I'm Baimam Boukar
- <a href="https://twitter.com/baimamjj" target="blank"><img src="https://img.shields.io/twitter/follow/baimamjj?logo=twitter&style=for-the-badge" alt="baimamjj" /></a>
 </h1>
 <h2 align="center">Mobile & Web developer | Blogger & Writer | Tech Enthusiast</h2>
 
@@ -40,5 +39,4 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baimamboukar&show_icons=true&locale=en" alt="baimamboukar" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baimamboukar&" alt="baimamboukar" /></p>
 
