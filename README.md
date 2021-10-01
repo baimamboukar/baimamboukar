@@ -13,15 +13,11 @@
 
 - Read my latest blog posts [https://baimamboukar.hashnode.dev](https://baimamboukar.hashnode.dev)
 
-- Ask me about **Flutter Dart Javascript Git**
+- Ask me about **Flutter Dart Javascript Git & Github**
 
 - How to reach me **baimamboukar@gmail.com**
 
 - Know about my experiences [https://www.linkedin.com/in/baimamboukar](https://www.linkedin.com/in/baimamboukar)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
