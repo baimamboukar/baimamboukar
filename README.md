@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baimamboukar&label=Profile%20views&color=0e75b6&style=flat" alt="baimamboukar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baimamboukar&row=1&theme=darkhub" alt="baimamboukar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baimamboukar&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="baimamboukar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/baimamjj" target="blank"><img src="https://img.shields.io/twitter/follow/baimamjj?logo=twitter&style=for-the-badge" alt="baimamjj" /></a> </p>
 
