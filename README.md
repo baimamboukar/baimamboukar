@@ -1,4 +1,4 @@
-<h3 align="center">A passionate flutter developer from Cameroon ✨ Open source Enthusiast ✨ ML and Cloud Computing</h3>
+<h3 align="center">A passionate Mobile Engineer from Cameroon ✨ Open source Enthusiast ✨ AWS Community Builder ✨ AWSx1 </h3>
 <hr>
 
 # Let's Stay connected <a href="https://twitter.com/baimamjj" target="blank"><img src="https://img.shields.io/twitter/follow/baimamjj?logo=twitter&style=for-the-badge" alt="baimamjj" /></a>
