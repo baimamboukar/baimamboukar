@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Mobile Engineer from Cameroon ✨ Open source Enthusiast ✨ AWS Community Builder ✨ AWSx1 </h3>
+<h3 align="center">I'm a passionate Software Engineer -  Flutter Mobile | AWS Serverless | Google Cloud | Open Source </h3>
 
 ---
 
@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baimamboukar&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="baimamboukar" /></a> </p>
 
-[![committers.top badge](https://user-badge.committers.top/cameroon_public/baimamboukar.svg)](https://user-badge.committers.top/cameroon_public/baimamboukar)
 
 ## Github Stats 🔥
 
