@@ -1,3 +1,4 @@
+
 <h1 align="center">I'm Baimam Boukar, Open Source Enthusiast</h1>
 
 <h3 align="center">Flutter Mobile | AWS Serverless | Google Cloud | Machine Learning </h3>
@@ -55,15 +56,13 @@ Always eager to share my knowledge! I write about Golang, Google Cloud, AWS and 
   </a>
 </div>
 
-
 ## Contributing Back to the Community
 
 I love giving back to the community by actively answering stackoverflow questions.
 
-<a href="https://github-readme-stackoverflow.vercel.app/?userID=15155605" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=15155605" alt="Stack Overflow Profile">
-</a>
-
+| Stackoverflow                 | DailyDev                                         |
+|-------------------------|----------------------------------------------|
+| [![Stack Overflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=15155605)](https://github-readme-stackoverflow.vercel.app/?userID=15155605)        | <a href="https://app.daily.dev/baimamboukar"><img src="https://api.daily.dev/devcards/v2/uWkvPQHe7Evi4oCdre7Xj.png?r=bk0&type=default" alt="BAIMAM BOUKAR JEAN JACQUES's Dev Card" width="284"></a>  |
 
 ## Github Stats 🔥
 
