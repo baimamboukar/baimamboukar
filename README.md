@@ -1,7 +1,7 @@
 
 <h1 align="center">I'm Baimam Boukar, Open Source Enthusiast</h1>
 
-<h3 align="center">Flutter Mobile | AWS Serverless | Google Cloud | Machine Learning </h3>
+<h3 align="center">Software Dev | AWS Serverless | Google Cloud | Machine Learning </h3>
 
 
 <center>
