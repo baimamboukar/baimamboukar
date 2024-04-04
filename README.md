@@ -64,6 +64,14 @@ I love giving back to the community by actively answering stackoverflow question
 |-------------------------|----------------------------------------------|
 | [![Stack Overflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=15155605)](https://github-readme-stackoverflow.vercel.app/?userID=15155605)        | <a href="https://app.daily.dev/baimamboukar"><img src="https://api.daily.dev/devcards/v2/uWkvPQHe7Evi4oCdre7Xj.png?r=bk0&type=default" alt="BAIMAM BOUKAR JEAN JACQUES's Dev Card" width="284"></a>  |
 
+
+## Badges and Creds
+
+| ![image description](https://github.com/baimamboukar/baimamboukar/assets/49169158/49210920-6023-4244-b7da-e6a81b8a2fb7) | ![image description](https://github.com/baimamboukar/baimamboukar/assets/49169158/1c668014-e79a-4c4b-ab61-323c702f461e) | ![image description](https://github.com/baimamboukar/baimamboukar/assets/49169158/7f86a5d9-c285-40e2-9667-4e26d4418ead) | ![image description](https://github.com/baimamboukar/baimamboukar/assets/49169158/a5b08742-2b83-4fba-9b4f-b02602a272d3) |
+|---|---|---|---|
+
+
+
 ## Github Stats 🔥
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baimamboukar&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="baimamboukar" /></p>
