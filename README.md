@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Baimam Boukar Jean Jacques</h1>
 
+<p align="center">
+  <em>Master In IT, Applied Machine Learning at <a href="https://www.africa.engineering.cmu.edu/"> Carnegie Mellon University Africa </a></em>
+</p>
 <h3 align="center">Software Engineer | Open Source Enthusiast | AWS Community Builder</h3>
 
-<p align="center">
-  <em>Specializing in Cloud Computing and Applied Machine Learning</em>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/baimamboukar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -22,10 +22,64 @@
 ## About Me
 
 
+<h2>Professional Journey</h2>
+
+<div align="left">
+ <!-- ![image](https://github.com/user-attachments/assets/9170c3cb-46b8-4208-a7e0-72b59ebca7c5) -->
+ 
+<img align="left" width="70" height="70" style="border-radius: 18px; border: 2px solid whitesmoke;" src="https://github.com/user-attachments/assets/9170c3cb-46b8-4208-a7e0-72b59ebca7c5">
+
+### Upcoming Research Assistant
+**Carnegie Mellon University Africa | Jan 2025 - May 2025**
+
+
+<!-- ![image](https://github.com/user-attachments/assets/19d6cd68-1b39-454a-85e6-03c4d8048f0e) -->
+
+<img align="left" width="70" height="70" style="border-radius: 18px; border: 2px solid whitesmoke;" src="https://github.com/user-attachments/assets/19d6cd68-1b39-454a-85e6-03c4d8048f0e">
+
+### Mobile Development Team Lead
+**Caasitech Group LLC | April 2023 - June 2024**
+- Developed and maintained mobile applications by ensuring seamless
+integration and optimal performance across Android and iOS
+platforms (EcoCaasitech, SOS Cameroon).
+- Automated the deployment process to the Apple Store and Play Store
+- Implemented unit tests to ensure code quality, resulting in a 60%
+reduction in post-release bugs.
+- Implemented observability strategies to understand post-deployment
+software usage and collect analytics data.
+
+
+<!--![image](https://github.com/user-attachments/assets/261d7f72-f4f4-43c5-be89-d37151e98d9e) -->
+
+
+<img align="left" width="70" height="70" style="border-radius: 18px; border: 2px solid whitesmoke;" src="https://github.com/user-attachments/assets/261d7f72-f4f4-43c5-be89-d37151e98d9e">
+
+### Software Engineering MLH Fellow
+**G-Research | May 2022 - September 2022**
+- Contributed to open-source software projects focused on performance benchmarking and automation for .NET ecosystem components.
+- Automated benchmarks data processing with CI/CD workflows and reduced manual processing by 90%.
+- Automated performance testing and deployment workflows with GitHub Actions which reduced manual processes time by 60%.
+
+
+<!-- ![image](https://github.com/user-attachments/assets/824403e9-c11e-43f3-bb6e-9a17b9f050eb) -->
+
+<img align="left" width="70" height="70" style="border-radius: 18px; border: 2px solid whitesmoke;" src="https://github.com/user-attachments/assets/824403e9-c11e-43f3-bb6e-9a17b9f050eb">
+
+### Flutter Mobile Developer
+**Enchird Technologies | May 2022 - September 2022**
+- Responsible for building and integrating mobile applications with
+complex backends to ensure a smooth seamless user experience.
+Integrated pixel-perfect UI designs, improving the app’s visual consistency and user satisfaction.
+- Connected mobile apps with robust backends HTTP REST APIs
+- Speeded up the development process by implementing reusable components in a clean architecture.
+
+</div>
+
+
 ## Technologies and Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=flutter,python,nuxtjs,vuejs,githubactions,firebase,golang,flask,postman,docker,kubernetes,prometheus,tensorflow,gcp,aws,github&perline=16" alt="Skill Icons">
   </a>
 </p>
