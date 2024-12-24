@@ -20,10 +20,21 @@
 </p>
 
 ## About Me
+<details>
+  <summary> <i><b>Expand to Read More</b></i>
 
+_I am a graduate student pursuing a Master of Science in Information Technology, Applied Machine Learning at Carnegie Mellon University Africa. My research interests center on Machine Learning applications in Healthcare, Earth Observation and Climate Modeling. My expertise lies in software engineering, cloud computing, and data science. I have experience in automating data processing pipelines and developing mobile applications. I am eager to apply these skills and expertise to meaningful projects in a dynamic environment._
 
-<h2>Professional Journey</h2>
+  
+  </summary>
 
+  <hr/>
+<details>
+<summary>
+  
+<h2>🟢Professional Journey</h2>
+</summary>
+  
 <div align="left">
  <!-- ![image](https://github.com/user-attachments/assets/9170c3cb-46b8-4208-a7e0-72b59ebca7c5) -->
  
@@ -75,12 +86,24 @@ Integrated pixel-perfect UI designs, improving the app’s visual consistency an
 
 </div>
 
+</details>
+<details>
+  <summary>
+    <h2>🔵 Hackathons</h2>
+  </summary>
+</details>
+<details>
+  <summary>
+    <h2>🟠 Programs and Fellowships</h2>
+  </summary>
+</details>
+</details>
 
 ## Technologies and Tools
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=flutter,python,nuxtjs,vuejs,githubactions,firebase,golang,flask,postman,docker,kubernetes,prometheus,tensorflow,gcp,aws,github&perline=16" alt="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=flutter,python,nuxtjs,vuejs,githubactions,firebase,golang,flask,postman,docker,kubernetes,prometheus,tensorflow,gcp,aws,github,raspberrypi,pytorch,sklearn&perline=19" alt="Skill Icons">
   </a>
 </p>
 
