@@ -154,3 +154,9 @@ I'm always open to collaborating on exciting projects or discussing new ideas. L
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=baimamboukar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+<!-- ![image](https://github.com/user-attachments/assets/b7277964-5a64-4a82-92a7-46ceb3eb1b33) -->
+
+<!--![image](https://github.com/user-attachments/assets/5f90e9bb-9a1d-433a-81d8-c442facca063) -->
+
+<!--![image](https://github.com/user-attachments/assets/cb1deae1-9baf-4c3f-baf8-6b158ace5a97) -->
