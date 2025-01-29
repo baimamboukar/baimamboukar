@@ -40,7 +40,7 @@ _I am a graduate student pursuing a Master of Science in Information Technology,
  
 <img align="left" width="70" height="70" style="border-radius: 18px; border: 2px solid whitesmoke;" src="https://github.com/user-attachments/assets/9170c3cb-46b8-4208-a7e0-72b59ebca7c5">
 
-### Upcoming Research Assistant
+### Graduate Research Assistant
 **Carnegie Mellon University Africa | Jan 2025 - May 2025**
 
 
