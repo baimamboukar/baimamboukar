@@ -3,7 +3,7 @@
 <p align="center">
   <em>Master In IT, Applied Machine Learning at <a href="https://www.africa.engineering.cmu.edu/"> Carnegie Mellon University Africa </a></em>
 </p>
-<h3 align="center">Software Engineer | Open Source Enthusiast | AWS Community Builder</h3>
+<h3 align="center">Machine Learning For Space | Open Source Software | AWS Community Builder</h3>
 
 
 <p align="center">
