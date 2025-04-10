@@ -127,9 +127,9 @@ Integrated pixel-perfect UI designs, improving the app’s visual consistency an
   <img src="https://github-readme-stats.vercel.app/api?username=baimamboukar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="150" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=baimamboukar&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="GitHub Streak" height="180" />
-</div>
+</div> -->
 
 ## Latest Blog Posts
 
