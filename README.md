@@ -123,7 +123,7 @@ Integrated pixel-perfect UI designs, improving the app’s visual consistency an
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baimamboukar&show_icons=true&locale=en&layout=compact&theme=cobalt&stats_format=percentages" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baimamboukar&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Top Languages" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=baimamboukar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="150" />
 </div>
 
