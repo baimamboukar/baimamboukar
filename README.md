@@ -104,6 +104,7 @@ Integrated pixel-perfect UI designs, improving the app’s visual consistency an
     <td align="center"><img src="https://github.com/user-attachments/assets/c42f9e11-ffdd-428d-8bd6-e592844365c9" width="100" height="100" alt="Open Source Contributor"><br><sub>Open Source Contributor</sub></td>
    <td align="center"><img src="https://github.com/user-attachments/assets/39fe19f2-3ad1-4c4a-b8bf-b06687944c1c" width="100" height="100" alt="Google Project Management"><br><sub>Google Project Management</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/e4443381-f5dc-49c6-8c88-c7027ae6606f" width="100" height="100" alt="Open Source Licensing"><br><sub>Open Source Licensing</sub></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/ff52fb0b-394e-43bf-b1b9-840b87227e22" width="100" height="100" alt="AWS Cloud Practitioner"><br><sub>AWS Cloud Practitioner</sub></td>
    
   </tr>
 
@@ -113,10 +114,12 @@ Integrated pixel-perfect UI designs, improving the app’s visual consistency an
      <td align="center"><img src="https://github.com/user-attachments/assets/16ea75f2-1129-4830-9540-ee53ac9df797" width="100" height="100" alt="AWS Cloud Practitioner"><br><sub>AWS Cloud Cloud Captain</sub></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/d7de6e91-72e2-409e-b02e-363064025c9c" width="100" height="100" alt="AWS Cloud Practitioner"><br><sub>AWS Cloud Cloud Captain Bronze</sub></td>
        <td align="center"><img src="https://github.com/user-attachments/assets/ad569cfe-b656-47d9-8025-cac035fd1927" width="100" height="100" alt="AWS Cloud Practitioner"><br><sub>AWS Cloud Cloud Captain Silver</sub></td>
-<td align="center"><img src="https://github.com/user-attachments/assets/ff52fb0b-394e-43bf-b1b9-840b87227e22" width="100" height="100" alt="AWS Cloud Practitioner"><br><sub>AWS Cloud Practitioner</sub></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/7b7f1b9c-2642-48af-820e-1c2190e3cc70" width="100" height="100" alt="AWS Cloud Practitioner"><br><sub>Postman Student Leader</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/6372db25-921e-4880-96b1-8959e2a004b0" width="100" height="100" alt="AWS Cloud Practitioner"><br><sub>Postman Student Expert</sub></td>
   </tr>
+
 </table>
-  
+
 </center>
 
 ## GitHub Stats
