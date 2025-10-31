@@ -32,12 +32,23 @@ _I am a graduate student pursuing a Master of Science in Information Technology,
 
 <div align="left">
  <!-- ![image](https://github.com/user-attachments/assets/9170c3cb-46b8-4208-a7e0-72b59ebca7c5) -->
- 
+
+ <img align="left" width="70" height="70" style="border-radius: 20%; border: 2px solid whitesmoke;" src="https://github.com/user-attachments/assets/17709c98-69fc-4b3d-bd9a-eac7a24f7a8e">
+
+### Research Scientist Intern
+**IBM Research | June 2025 - Setpember 2025**
+
+- Contributed to IBM DeepScanner, a weakly supervised method for identifying anomalous patterns within internal activations of LLMs
+- Architected a modular, scalable, and reproducible workflow for large-scale embedding extraction and analysis both locally and in IBM cluster environments, improving efficiency by 3x
+- Extended the methodology into a novel dense vector retrieval framework, reframing anomalous pattern detection as a retrieval problem, leading to a paper submission at AAAI 2026
+
 <img align="left" width="70" height="70" style="border-radius: 18px; border: 2px solid whitesmoke;" src="https://github.com/user-attachments/assets/9170c3cb-46b8-4208-a7e0-72b59ebca7c5">
 
 ### Graduate Research Assistant
 **Carnegie Mellon University Africa | Jan 2025 - May 2025**
-
+- Engineered open-source mobile software solutions to demonstrate practical applications for laboratory research projects
+- Enforced best open-science practices in code quality, for reproducibility and transparency
+- Conducted regular code-reviews with research associates, which ensured code changes are stable before merge
 
 <!-- ![image](https://github.com/user-attachments/assets/19d6cd68-1b39-454a-85e6-03c4d8048f0e) -->
 
